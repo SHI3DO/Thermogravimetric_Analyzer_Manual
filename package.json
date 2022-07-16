@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "Thermogravimetric_Analyzer_Manual",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Thermogravimetric_Analyzer_Manual",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
